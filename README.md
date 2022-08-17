@@ -1,17 +1,23 @@
-### Hi there 👋.I'm Yunus
+### Hi there 👋. I'm Yunus.
 
 
-- 🔭 I’m currently working on EDA Projects, Capstone Projects.
-- 🌱 I’m currently learning Python,SQL,Tableau,Matplotlib,ML,NLP.
-- 👯 I’m looking to collaborate on new idea which impress me.
-- 🤔 I’m looking for help with handling for BigData.
-- 💬 Ask me about Data Analysis.
-- 📫 How to reach me: face to face or on zoom.
-- ⚡ Fun fact: I love Bachata.
+- 🔭 I’m currently working on <b>EDA Projects, Capstone Projects.</b>
+- 🌱 I’m currently learning <b>Python,SQL,Tableau,Matplotlib,ML,NLP.</b>
+- 👯 I’m looking to collaborate on <b>New idea which impress me.</b>
+- 🤔 I’m looking for help with <b>Handling for BigData.</b>
+- 💬 Ask me about <b>Data Analysis.</b>
+- 📫 How to reach me: <b>Face to Face or on zoom.</b>
+- ⚡ Fun fact: <b>I love Bachata</b> <img src="https://img.icons8.com/ios-filled/30/000000/dancing.png"/>.
+<hr />
+<b> Social Connect: <b/>
 
-Connect with me:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/yunuskoyun) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/yunuskyn/) 
+<br>[![Github Badge](https://img.icons8.com/ios-filled/50/000000/github.png)](https://github.com/yunuskoyun)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin-circled.png)](https://www.linkedin.com/in/yunus-koyun-306401a4/)
+[![Instagram Badge](https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png)](https://www.instagram.com/yunuskyn/)
+[![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/yunus_kyn)
 
+<br><hr />
+Skills:
+<br><img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/ios-filled/50/000000/accept-database.png"/> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/> <img src="https://img.icons8.com/fluency/48/000000/jupyter.png"/> <img src="https://img.icons8.com/color/48/000000/pandas.png"/> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/autocad.png"/> <img src="https://img.icons8.com/color/48/000000/solidworks.png"/> 
 
