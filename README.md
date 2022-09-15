@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on <b>EDA Projects, Capstone Projects.</b>
-- 🌱 I’m currently learning <b>Python, SQL, Tableau, Matplotlib, ML, NLP.</b>
+- 🌱 I’m currently learning <b>Python, SQL, Tableau, Power BI, Matplotlib, Seaborn, Scipy, ML, DL, NLP.</b>
 - 👯 I’m looking to collaborate on <b>New idea which impress me.</b>
 - 🤔 I’m looking for help with <b>finding a job.</b>
 - 💬 Ask me about <b>Data Analysis.</b>
