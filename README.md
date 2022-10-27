@@ -17,7 +17,7 @@
 [![Instagram Badge](https://img.icons8.com/bubbles/50/000000/instagram-new--v2.png)](https://www.instagram.com/yunuskyn/)
 [![Twitter](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/yunus_kyn)
 [![Twitter](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-shadow-tal-revivo.png)](https://www.kaggle.com/yunuskoyun)
-[![Tableau](https://img.icons8.com/color/50/000000/tableau-software.png)](https://public.tableau.com/app/profile/yunuskoyun)
+
 
 <br><hr />
 Skills:
