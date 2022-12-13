@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Yunus.
 
 
-- 🔭 I’m currently working on <b>Capstone Project (AutoScout) .</b>
+- 🔭 I’m currently working on <b>Natural Gas Emergency Team Performance Analysis .</b>
 - 🌱 I’m currently learning <b>Python, SQL, Tableau, Power BI, Matplotlib, Seaborn, Scipy, ML, DL, NLP.</b>
 - 👯 I’m looking to collaborate on <b>New idea which impress me.</b>
 - 🤔 I’m looking for help with <b>finding a job.</b>
