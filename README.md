@@ -1,11 +1,11 @@
 ### Hi there 👋. I'm Yunus.
 
 
-- 🔭 I’m currently working on <b>Natural Gas Emergency Team Performance Analysis .</b>
+- 🔭 I’m currently working on <b> Call Center CRM NLP Project .</b>
 - 🌱 I’m currently learning <b>Python, SQL, Tableau, Power BI, Matplotlib, Seaborn, Scipy, ML, DL, NLP.</b>
 - 👯 I’m looking to collaborate on <b>New idea which impress me.</b>
 - 🤔 I’m looking for help with <b>finding a job.</b>
-- 💬 Ask me about <b>Data Analysis.</b>
+- 💬 Ask me about <b> Machine Learning, Deep Learning and NLP.</b>
 - 📫 How to reach me: <b>Face to Face or on Zoom.</b>
 - ⚡ Fun fact: <b>I love Bachata</b> <img src="https://img.icons8.com/ios-filled/30/000000/dancing.png"/>.
 <hr />
